@@ -21,6 +21,7 @@ public class Lazy03 {
         return lazy.LAZY;
     }
 
+
     //内部类
     private static class lazy{
         private static final Lazy03 LAZY=new Lazy03();
